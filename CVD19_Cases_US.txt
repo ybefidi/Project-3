@@ -1,0 +1,51 @@
+{
+    name: "Wyoming",
+    location: [43.075968, -107.290284],
+    cases: 275
+  },
+{
+    name: "Wisconsin",
+    location: [43.78444, -88.787868],
+    cases: 3341
+  },
+{
+    name: "Washington",
+    location: [47.751074, -120.740139],
+    cases: 8550405
+  },
+{
+    name: "West Virginia",
+    location: [38.597626, -80.454903],
+    cases: 611
+  },
+{
+    name: "Virginia",
+    location: [37.431573, -111.093731],
+    cases: 5,274
+  },
+
+{
+    name: "Utah",
+    location: [39.32098, -107.290284],
+    cases: 2303
+  },
+{
+    name: "Texas",
+    location: [31.968599, -99.901813],
+    cases: 13906
+  },
+{
+    name: "Tennessee",
+    location: [35.517491, -86.580447],
+    cases: 5308
+  },
+{
+    name: "Vermont",
+    location: [44.558803, -99.901813],
+    cases: 679
+  },
+{
+    name: "South Dakota",
+    location: [43.969515, -78.656894],
+    cases: 868
+  },
